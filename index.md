@@ -3,7 +3,21 @@ abc
 **bold**
 # Heading 1
 ## Heading 2
+[Link](http://a.com)
+![Image]
 > Blockquote
 * one
 * two 
 * three
+1. One
+2. Two
+3. Three
+Horizontal rule:
+___
+
+`inline code` here
+```
+# code block
+dsvdda
+advfw
+```
